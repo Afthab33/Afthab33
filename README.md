@@ -2,7 +2,7 @@
 
 I'm passionate about building innovative web applications and AI-powered solutions that solve real-world problems.
 
-**I speak less, show my work** - All my projects are live and deployed. Don't just read about them, experience them! 🚀
+**I let my work speak for itself** — every project I’ve built is live and deployed.
 
 ## 🚀 What I Do
 
