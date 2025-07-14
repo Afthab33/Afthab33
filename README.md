@@ -54,11 +54,3 @@ I'm passionate about building innovative web applications and AI-powered solutio
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://aftabhussain.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aftabhussain33)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:afthabhussain33@gmail.com)
-
-## 💭 Fun Fact
-
-I'm passionate about fitness and health technology - that's why I rebuilt WHOOP's web platform and added an AI coach! When I'm not coding, you'll find me exploring new technologies or working on projects that make a positive impact.
-
----
-
-*"Building the future, one line of code at a time."* ✨ 
